@@ -32,6 +32,7 @@ This README provides instructions on running the image edge detection code in a 
 2. **Upload Your Image**:
 
    Place the image you want to process in the project directory with the name `original.jpeg`.
+   
 ![Screenshot 2023-11-01 233214](https://github.com/gmpranav2004/pranav.gm2004/assets/146116635/2f0227ee-9c9d-4fd8-a8db-79bdd7b476d0)
 
 4. **Run the Code**:
@@ -45,6 +46,7 @@ This README provides instructions on running the image edge detection code in a 
 5. **View the Results**:
 
    The code will create an output image called `Canny Edge Detection.jpeg` in the project directory. You can download and view this image to see the edges detected in the original image.
+   
 ![Screenshot 2023-11-01 233401](https://github.com/gmpranav2004/pranav.gm2004/assets/146116635/cb5548be-43df-435b-b8f7-66643f5cb761)
 
 ## Customize Parameters
